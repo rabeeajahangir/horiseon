@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* adding style to header*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,10 +17,7 @@ header {
     color: #ffffff;
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
-    
-    
-    
+    flex-wrap: wrap;     
 }
 
 
@@ -47,6 +46,8 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* header style ends */
 
 a {
     color: #ffffff;
