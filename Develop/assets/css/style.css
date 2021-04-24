@@ -148,7 +148,7 @@ header nav ul li {
 /*Content Section Styling Ends*/
 
 /*Benefits Section Styling Begins*/
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -157,6 +157,8 @@ header nav ul li {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    position: relative;
+
 }
 
 .benefit-lead {
