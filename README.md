@@ -12,6 +12,7 @@ Navigation Tools make the website navigation easier. Clear content with lots of 
 
 Elements like margins, padding and images added to ensure that the content is readable and organized.
 
+The application can be viewed at https://rabeeajahangir.github.io/horiseon/ .
 
 Contributed By:
 Rabeea Jahangir
